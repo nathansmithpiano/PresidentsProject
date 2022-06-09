@@ -2,7 +2,7 @@
 
 Developed for Skill Distillery SD32
 
-This was an evening solo project. We were provided with a text file of basic info for US Presidents.  Using inner classes, anonymous classes, and llambdas, we developed various ways to filter and sort data.
+This was an evening solo project. We were provided with a text file of basic info for US Presidents.  Using inner classes, anonymous classes, and lambdas, we developed various ways to filter and sort data.
 
 **MVP for this project included:**
 - View president data
